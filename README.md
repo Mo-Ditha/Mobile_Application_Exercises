@@ -1,2 +1,3 @@
-# Mobile_Application_Exercise_02
+# Mobile_Application_Exercises
+
 Create simple mobile apps
